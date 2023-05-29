@@ -11,11 +11,9 @@ def accuracy_score(Y_pred, Y_true):
 # This function works as a label encoder, taking categorical data and converting it to an enumerated dataset, useful for classification
 
 def labelencoder(data):
-    col = df.columns[0]
     dict = {}
     list = [x for x in data.unique()]
     for enum in range(len(list)):
         dict[list[enum]] = enum
-    for label in list:
-        data = data.apply(lambda x: dict[label] if x == label else x)
+    data = data.apply(lambda x: dict[x])
     return data
