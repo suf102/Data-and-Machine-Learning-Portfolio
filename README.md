@@ -14,4 +14,4 @@ To put the work above to use in this folder I will use the algorithms and pre ma
 
 A mushroom classification project that classifies mushrooms into poisonous and non poisonous,
 
-A credit card fraud detector algorithm.
+A credit card fraud detector algorithm, for this project I try tree different models, first a logistic regression model, then a decision tree classifier, and lastly a deep learning model. The deep learning model was found to be the most sucessful. I did try to use my own decision tree code, however it is too inefficient and would take many hours to train, some more work needs to be done to optimise the code. 
