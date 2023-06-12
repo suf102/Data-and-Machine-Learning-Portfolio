@@ -5,7 +5,7 @@ In this repository I am looking to deepen my knowledge fo machine learning. I wi
 ## Machine Learning from Scratch
 
 ### Regression
-To begin with I have written up 4 notebooks that cover creating linear, logistic, multiliniear and polynomial regression algorithms from scratch. In these notebooks I first created synthetic data that followed the same shape as the model with some added noise, them I wrote up a algorithm that uses the gradient decent to close in on the optimal soloution.
+To begin with I have written up 4 notebooks that cover creating linear, logistic, multiliniear and polynomial regression algorithms from scratch. In these notebooks I first created synthetic data that followed the same shape as the model with some added noise, them I wrote up a algorithm that uses the gradient decent to close in on the optimal solution.
 
 ### Decision Trees 
 Here I put together a classification decision tree algorithm to classify data. In this project I tried to keep to an object orientated approach. The main reason for the object orientated approach was because it makes creating the tree structure easier as there is then just a tree object rather than trying to wrangle more primitive data structures. 
