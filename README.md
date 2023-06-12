@@ -20,6 +20,8 @@ In this project, I experimented with different methods of predicting whether som
 
 ### Excise rates and RTD Consumption
 
+In this project I focus on trying to determine if the excise rate on Ready to Drink Alcoholic beverages has an impact on the rate of consumption. I have included a short writeup pdf that summarizes my findings that increases that are not indexed to inflation have a impact, but increases that are indexed to inflation have little significant impact. 
+
 ### Credit Card Fraud
 
 A credit card fraud detector algorithm was developed for this project. I tried three different models: first, a logistic regression model, then a decision tree classifier, and lastly, a deep learning model. The deep learning model was found to be the most successful, however, the margins were close. It also comes with the downside of a much longer training time than the logistic regression and decision tree models. I did try to use my own decision tree code, however, it was too inefficient and would take many hours to train. Some more work needs to be done to optimise the code.
