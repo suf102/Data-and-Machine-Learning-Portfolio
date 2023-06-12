@@ -20,7 +20,7 @@ In this project, I experimented with different methods of predicting whether som
 
 ### Excise rates and RTD Consumption
 
-In this project I focus on trying to determine if the excise rate on Ready to Drink Alcoholic beverages has an impact on the rate of consumption. I have included a short writeup pdf that summarizes my findings that increases that are not indexed to inflation have a impact, but increases that are indexed to inflation have little significant impact. 
+In this project I focus on trying to determine if the excise rate on Ready to Drink Alcoholic beverages has an impact on the rate of consumption. I have included a short writeup pdf that summarizes my findings that increases that are not indexed to inflation have a impact, but increases that are indexed to inflation have little impact. 
 
 ### Credit Card Fraud
 
