@@ -12,7 +12,7 @@ Here I put together a classification decision tree algorithm to classify data. I
 
 ## Projects
 
-To put the work above to use in this folder I will use the algorithms and pre made libraries to perform data analysis. Thus far I have completed 2 projects:
+To put the work above to use in this folder I will use the algorithms and pre made libraries to perform data analysis. Thus far I have completed 3 projects:
 
 ### Mushrooms, poisonous or not?
 
