@@ -14,15 +14,17 @@ Here I put together a classification decision tree algorithm to classify data. I
 
 To put the work above to use in this folder I will use the algorithms and pre made libraries to perform data analysis. Thus far I have completed 3 projects:
 
-### Diabetes detection
+### Diabetes Detection
 
 In this project, I experimented with different methods of predicting whether someone would have diabetes depending on other factors, including gender, age, BMI, smoking history, blood glucose, and historical blood glucose levels. The process went as follows: first, I pulled in and visualized the data. Then, during the clean-up process, I found there were some peculiarities, namely, there was a lot of information missing in the smoking history category. I eventually chose to "interpolate" the data as a compromise, making the assumption that historical smoking would have an impact on current health. There was insufficient data to make a claim otherwise because of the many other confounding factors. In the end, I chose to implement four models to compare their performance. The first was a basic logistic regression, the second was a decision tree, third a deep learning model, and lastly a random forest. In terms of performance, it was found that the random forest was the best performing, which is not surprising given the non-linearity of the data. The deep learning model came close, however, it also had the significant downside of a very long training period.
 
-### Credit card Fraud
+### Excise rates and RTD Consumption
+
+### Credit Card Fraud
 
 A credit card fraud detector algorithm was developed for this project. I tried three different models: first, a logistic regression model, then a decision tree classifier, and lastly, a deep learning model. The deep learning model was found to be the most successful, however, the margins were close. It also comes with the downside of a much longer training time than the logistic regression and decision tree models. I did try to use my own decision tree code, however, it was too inefficient and would take many hours to train. Some more work needs to be done to optimise the code.
 
-### Mushrooms, poisonous or not?
+### Mushrooms, Poisonous or Not?
 
 A mushroom classification project that classifies mushrooms into poisonous and non-poisonous. The classification tree was extremely successful, I suspect this is because the categories are very clear cut with every mushroom being either poisonous or not and the feature set being sufficient to totally determine a mushroom. Therefore, sufficient layers resulted in almost perfect results.
 
