@@ -1,11 +1,11 @@
-# lsi: false
-# safe: true
-# source: [https://github.com/suf102/Sufyan-s-Data-and-Machine-Learning-Portfolio]
-# incremental: false
-# highlighter: rouge
-# gist:
-#   noscript: false
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
-# theme: Midnight
+lsi: false
+safe: true
+source: [https://github.com/suf102/Sufyan-s-Data-and-Machine-Learning-Portfolio]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+theme: Midnight
