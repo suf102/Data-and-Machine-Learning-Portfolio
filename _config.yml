@@ -14,6 +14,6 @@ theme: minima
 # plugins:
 # - jekyll-remote-theme 
 
-title: [Sufyan's Portfolio]
+title: Sufyan's Portfolio
 
 exclude: ['Hackathons/MEV_Hackathon/README.md']
