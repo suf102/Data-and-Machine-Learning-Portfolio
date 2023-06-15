@@ -31,4 +31,6 @@ A credit card fraud detector algorithm was developed for this project. I tried t
 A mushroom classification project that classifies mushrooms into poisonous and non-poisonous. The classification tree was extremely successful, I suspect this is because the categories are very clear cut with every mushroom being either poisonous or not and the feature set being sufficient to totally determine a mushroom. Therefore, sufficient layers resulted in almost perfect results.
 
 
+## Hackathons
 
+In 2022 I competed in a MEV hackathon, I have included the full project including its writeup under the Hackathon folder. 
