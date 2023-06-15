@@ -4,7 +4,7 @@ In this repository I am looking to deepen my knowledge fo machine learning. I wi
 
 ## Machine Learning from Scratch
 
-### Regression
+### [Regression](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Machine_Learning_from_Scratch)
 To begin with I have written up 4 notebooks that cover creating linear, logistic, multiliniear and polynomial regression algorithms from scratch. In these notebooks I first created synthetic data that followed the same shape as the model with some added noise, them I wrote up a algorithm that uses the gradient decent to close in on the optimal soloution.
 
 ### Decision Trees 
