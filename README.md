@@ -29,11 +29,10 @@ A mushroom classification project that classifies mushrooms into poisonous and n
 # Machine Learning from Scratch
 
 ## [Regression](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Machine_Learning_from_Scratch/Regression_From_Scratch)
-To begin with I have written up 4 notebooks that cover creating linear, logistic, multiliniear and polynomial regression algorithms from scratch. In these notebooks I first created synthetic data that followed the same shape as the model with some added noise, them I wrote up a algorithm that uses the gradient decent to close in on the optimal solution.
+I have written up 4 notebooks that cover creating linear, logistic, multiliniear and polynomial regression algorithms from scratch. In these notebooks I first created synthetic data that followed the same shape as the model with some added noise, them I wrote up a algorithm that uses the gradient decent to close in on the optimal solution.
 
 ## [Decision Trees](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Machine_Learning_from_Scratch/Decision_Trees) 
-Here I put together a classification decision tree algorithm to classify data. In this project I tried to keep to an object orientated approach. The main reason for the object orientated approach was because it makes creating the tree structure easier as there is then just a tree object rather than trying to wrangle more primitive data structures. 
-
+Here I put together a classification decision tree algorithm to classify data. In this project I tried to keep to an object orientated approach. As a dummy dataset I used the IRIS dataset to aid with development, I then put this project to use in the 'Mushrooms, Poisonous or Not?' project you can see above, finding it to be quite successful, if a little slow. 
 # Hackathons
 
 ## [MEV Hackathon](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Hackathons/MEV_Hackathon)
