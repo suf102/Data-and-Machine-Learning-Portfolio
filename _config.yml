@@ -10,4 +10,4 @@ kramdown:
   syntax_highlighter: rouge
 theme: minima
 
-title-heading: false
+exclude: ['Hackathons/MEV_Hackathon/README.md']
