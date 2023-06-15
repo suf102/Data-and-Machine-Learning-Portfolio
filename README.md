@@ -1,4 +1,4 @@
-# Sufyan Data and Machine Learning Portfolio
+# Sufyan's Data and Machine Learning Portfolio
 
 In this repository I am looking to deepen my knowledge fo machine learning. I will be doing this in a few different ways, the first is to rebuild common machine learning algorithms from scratch. The Second is by putting it to use taking datasets that I can find doing analysis on them, sometimes using my own code sometimes using pre made libraries.
 
