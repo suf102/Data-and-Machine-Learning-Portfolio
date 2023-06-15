@@ -1,4 +1,4 @@
-This is the online portfolio of Sufyan. a dedicated explorer in the realm of numbers, probabilities, and patterns. My voyage through the wide world of data, and statistics has been filled with fascinating discoveries and rich insights.
+This is the online portfolio of Sufyan, a dedicated explorer in the realm of numbers, probabilities, and patterns. My voyage through the wide world of data, and statistics has been filled with fascinating discoveries and rich insights.
 
 Here, you will find a collection of my work, where I've applied my statistical and programming skills to tackle real-world problems. You will find my portfolio and underlying repositories split into two sections:
 
