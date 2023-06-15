@@ -8,5 +8,5 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-remote_theme: Midnight
+theme : minimal
 exclude: ['Hackathons/MEV_Hackathon/README.md']
