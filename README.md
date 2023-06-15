@@ -1,4 +1,4 @@
-This is the online portfolio of Sufyan Saleem. a dedicated explorer in the realm of numbers, probabilities, and patterns. My voyage through the wide world of data and analysis has been filled with fascinating discoveries and rich insights.
+This is the online portfolio of Sufyan. a dedicated explorer in the realm of numbers, probabilities, and patterns. My voyage through the wide world of data, and statistics has been filled with fascinating discoveries and rich insights.
 
 Here, you will find a collection of my work, where I've applied my statistical and programming skills to tackle real-world problems. You will find my portfolio and underlying repositories split into two sections:
 
@@ -16,7 +16,7 @@ In the end, I implemented four models to compare their performance. The first wa
 
 ## [Excise rates and RTD Consumption](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Projects/RTD_Consumption)
 
-In this project I focus on trying to determine if the excise rate on Ready to Drink Alcoholic beverages has an impact on the rate of consumption. I have included a short writeup pdf that summarizes my findings that increases that are not indexed to inflation have a impact, but increases that are indexed to inflation have little impact. 
+In this project I focus on trying to determine if the excise rate on Ready to Drink Alcoholic beverages in Australia has an impact on the rate of consumption. I have included a short writeup pdf that summarizes my findings that increases that are not indexed to inflation have a impact, but increases that are indexed to inflation have little impact. 
 
 ## [Credit Card Fraud](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Projects/Credit_Card_Fraud_detection)
 
