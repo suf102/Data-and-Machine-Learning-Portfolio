@@ -31,6 +31,8 @@ I have compiled 4 notebooks that cover creating linear, logistic, multilinear, a
 
 ### [Decision Trees](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Machine_Learning_from_Scratch/Decision_Trees) 
 Here, I assembled a classification decision tree algorithm to classify data. In this project, I endeavored to adhere to an object-oriented approach. I used the IRIS dataset as a dummy dataset to aid with development, and later applied this project in the 'Mushrooms, Poisonous or Not?' project mentioned above, which proved to be quite successful, albeit a bit slow.
+### [Clustering](https://github.com/suf102/Sufyan-Portfolio/tree/master/Machine_Learning_from_Scratch/Clustering)
+Thus far I have put together a Kmeans++ clustering algorithm, I used synthetic data and built a clustering algorithm around it. I chose the Kmeans++ version because it is much quicker than just picking random points to start with. 
 ## Hackathons
 
 ### [MEV Hackathon](https://github.com/suf102/Data-and-Machine-Learning-Portfolio/tree/master/Hackathons/MEV_Hackathon)
